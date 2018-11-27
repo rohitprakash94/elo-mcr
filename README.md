@@ -1,4 +1,3 @@
-# elo-mcr
 # Elo Merchant Category Recommendation
 
 ## Description
