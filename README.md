@@ -1,2 +1,2 @@
 # elo-mcr
-Elo Merchant Category Recommendation Help understand customer loyalty
+https://www.kaggle.com/c/elo-merchant-category-recommendation
